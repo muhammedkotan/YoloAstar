@@ -5,13 +5,8 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Architecture](#architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Simulation Videos](#simulation-videos)
 - [Dataset and Segmentation Codes](#dataset-and-segmentation-codes)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Citation](#citation)
 
 ## Introduction
 
@@ -44,6 +39,10 @@ https://github.com/user-attachments/assets/1607d110-0164-496d-b6d6-e7c3bd0cef37
 
 https://github.com/user-attachments/assets/880ff410-22af-49fb-9e27-f3660cc2bd7b
 
+## Dataset and Segmentation Codes
+The generated dataset and segmentation codes will be uploaded soon. 
+
+## Citation
 
 
 
